@@ -1,2 +1,0 @@
-# BearTech Token Analysis Bot
-
